@@ -6,6 +6,7 @@
         {
             System.Console.WriteLine("Привет, мир!");
             System.Console.WriteLine("Привет, мир!");
+            System.Console.WriteLine("Привет, ЖУК!");
         }
     }
 }
