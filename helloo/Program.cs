@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Привет, мир!");
-            System.Console.WriteLine("Привет, мир!");
+            System.Console.WriteLine("ЧЕТАКОЕ");
+            System.Console.WriteLine("Привет, ЖУК!");
+            System.Console.WriteLine("АА, мир1!!!!!!");
+            System.Console.WriteLine("ВВВВВВВВВВВ");
         }
     }
 }
